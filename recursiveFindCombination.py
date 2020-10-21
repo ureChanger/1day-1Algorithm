@@ -1,6 +1,7 @@
 def findCombination(num, toPick, pickedNum):
     comList = []
     beforeList = []
+    
     for i in range(pickedNum, num - toPick+1):
         print("toPick : " + str(toPick))
         print(i)

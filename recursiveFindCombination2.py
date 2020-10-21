@@ -16,5 +16,4 @@ def pick(n, picked, toPick):
     print(answer)
     return answer
 
-
 pick(7, [], 5)

@@ -1,5 +1,5 @@
 def pick(n, picked, toPick):
-    print("들어왔당!")
+    print("Welcome!")
     answer = []
     if toPick == 0:
         return picked

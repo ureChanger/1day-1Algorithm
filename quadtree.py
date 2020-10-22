@@ -8,13 +8,10 @@ def reverse(compressed, idx):
     
   idx += 1
   upperLeft = reverse(compressed, idx)
-  
   idx += len(upperLeft)
   upperRight = reverse(compressed, idx)
-  
   idx += len(upperRight)
   lowerLeft = reverse(compressed, idx)
-  
   idx += len(lowerLeft
   lowerRight = reverse(compressed, idx)
   

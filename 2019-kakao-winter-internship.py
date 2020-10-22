@@ -9,7 +9,6 @@ def solution(board, moves):
             if not board[j][i-1] == 0 :
                 picked.append(board[j][i-1])
                 board[j][i-1] = 0
-                
                 print(len(board))
                 
                 #터트리기

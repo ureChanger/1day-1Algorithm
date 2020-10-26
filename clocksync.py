@@ -8,8 +8,9 @@
 
 def Aligend(clock):
   for i in clock:
-  if not i == 12:
-    return false
+    if not i == 12:
+      return false
+    
   return true
   
 def push(clock, switch):
@@ -19,8 +20,11 @@ def push(clock, switch):
 def solution(clock, switch):
   if switch==10:
     return Aligend?0:99999
+    
   ret = 99999
+  
   for cnt in range(4):
     ret = min(ret, cnt+solution(clock, switch+1)
     push(clock, switch)
+              
   return ret

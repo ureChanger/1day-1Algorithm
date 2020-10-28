@@ -10,7 +10,7 @@ def hasWord(y, x, word):
   if y<0 or y>4 or x<0 or x>4 :
     return False
            
-  #base case2 - first coincide?
+  #base case2 - first word coincide?
   if not board[y][x] == word[0] :
     return False
     

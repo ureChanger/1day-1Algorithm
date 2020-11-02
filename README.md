@@ -1,2 +1,3 @@
 # algorithmic-solution
-9
+
+알고리즘

@@ -19,6 +19,7 @@ def push(clock, switch):
     
 def solution(clock, switch):
   if switch==10:
+    
     return Aligend?0:99999
     
   ret = 99999

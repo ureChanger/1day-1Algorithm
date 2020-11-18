@@ -8,7 +8,6 @@ def solution(numbers):
             sum = numbers[pivot] + numbers[i]
             if not sum in answer:
                 answer.append(sum)
-    
     answer.sort()
     
     return answer

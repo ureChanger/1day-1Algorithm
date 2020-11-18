@@ -15,6 +15,7 @@ def findCombination(num, toPick, pickedNum):
     return comList
 
 answer = findCombination(7, 5, 0)
+
 print(answer)
 print("총합 : "+str(len(answer)))
 print([0, 1, 2, 3, 4, 5, 6])

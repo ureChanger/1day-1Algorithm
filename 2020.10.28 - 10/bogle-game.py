@@ -21,7 +21,8 @@ def hasWord(y, x, word):
   #check 8 spaces around:
   for direction in range(0, 8):
     nextY = y+dy[direction], nextX = x+dx[direction]
+    
     if hasWord(nextY, nextX, word[1:]:
       return True
-  
+               
   return False

@@ -1,5 +1,4 @@
 def pick(n, picked, toPick):
-    print("Welcome!")
     answer = []
     if toPick == 0:
         return picked
@@ -12,8 +11,10 @@ def pick(n, picked, toPick):
         print("i : " + str(i) + " / toPick : " + str(toPick))
         answer.append(pick(n, picked, toPick-1))
         picked.remove(i)
+        
     print("toPick : " + str(toPick))
     print(answer)
+    
     return answer
 
 pick(7, [], 5)

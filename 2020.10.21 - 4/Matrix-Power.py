@@ -5,6 +5,7 @@ class SquareMatrix
 SquareMatrix identity(n)
 
 # A^m을 반환
+
 # 분할 정복을 이용해 거듭제곱을 구하는 아이디어 : A^m = A^(m/2) * A^(m/2)
 
 SquareMatrix pow(A, m):

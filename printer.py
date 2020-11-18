@@ -6,15 +6,16 @@ def solution(priorities, location):
     idx = 0
     num = 1
     
-    while len(priorities) != 0:
+    while num != len(priorities)+1:
         if priorities[0] < max(priorities):
             priorities.append(priorities[0])
-            del priorities[0]
         else:
+            #어떻게 추적?
             printed[idx%len(printed)] = num
             num += 1
-            del priorities[0]
+            priorities.append(0)
         
+        del priorities[0]    
         idx += 1
         
     return printed[location]

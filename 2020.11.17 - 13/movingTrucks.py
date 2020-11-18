@@ -24,4 +24,5 @@ def solution(bridge_length, weight, truck_weights):
                 del truck_weights[0]
                 
         bridge.append(nextNum)
+        
     return answer

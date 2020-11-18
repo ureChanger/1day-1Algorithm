@@ -9,6 +9,7 @@ def solution(priorities, location):
     while num != len(priorities)+1:
         if priorities[0] < max(priorities):
             priorities.append(priorities[0])
+            
         else:
             #어떻게 추적?
             printed[idx%len(printed)] = num

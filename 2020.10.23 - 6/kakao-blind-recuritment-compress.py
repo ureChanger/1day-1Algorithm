@@ -1,5 +1,4 @@
 #88점 코드 - 수정 필요
-
 def solution(s):
     answer = 999999
     

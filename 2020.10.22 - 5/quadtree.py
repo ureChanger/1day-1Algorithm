@@ -1,4 +1,5 @@
 #분할 정복을 이용한 쿼드 트리 뒤집기 문제 알고리즘
+
 def reverse(compressed, idx):
   ret = compressed[idx]
   

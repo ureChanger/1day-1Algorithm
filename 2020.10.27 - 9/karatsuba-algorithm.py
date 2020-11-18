@@ -1,5 +1,6 @@
 #카리츠바 알고리즘
 #num[]의 자릿수 올림을 처리
+
 def normalize(num):
   num.append(0)
   

@@ -13,6 +13,7 @@
 > - [ ] 블로그에 글 쓰기
 
 ### 알고리즘 문제 해결 과정 from Feynman Algorithm
+파인만 문제해결법과 How to Solve It을 병합한 과정
 ```
 1. 문제 이해
 2. 추상화
@@ -23,6 +24,6 @@
 ```
 
 ### 기술블로그에도 쓰는 알고리즘(Blog 'ureChanger' image Link)
-
+문제를 해결할 때 어떤 생각을 했는지 볼 수 있습니다.
 [![blog](https://user-images.githubusercontent.com/56578913/99676221-90b58c00-2abb-11eb-9eb5-889bb331bb51.png)](https://medium.com/urechanger)
 

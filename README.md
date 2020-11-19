@@ -4,9 +4,9 @@
 ## 꾸준하고 싶은 1일 1커밋
 ![python_badge](https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=white)
 
-기간 : 2020.10.19 ~
-
 <div align=left>
+  
+기간 : 2020.10.19 ~
   
 > ### 1day-1Algorithm 프로젝트
 > - [ ] 알고리즘 1문제 풀기

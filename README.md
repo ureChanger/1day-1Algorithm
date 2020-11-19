@@ -4,8 +4,6 @@
 ## 꾸준하고 싶은 1일 1커밋
 ![python_badge](https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=white)
 
-How to Solve It
-
 기간 : 2020.10.19 ~
 
 <div align=left>

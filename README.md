@@ -4,7 +4,7 @@
 > - [ ] 알고리즘 1문제 풀기
 > - [ ] 블로그에 글 쓰기
 
-### 알고리즘 풀이가 적힌 블로그
+### 기술블로그에도 알고리즘 쓰는 중
 
 [![blog](https://user-images.githubusercontent.com/56578913/99676221-90b58c00-2abb-11eb-9eb5-889bb331bb51.png)](https://medium.com/urechanger)
 

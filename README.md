@@ -4,7 +4,8 @@
 > - [ ] 알고리즘 1문제 풀기
 > - [ ] 블로그에 글 쓰기
 
-## 알고리즘 문제 해결 과정 from Feynman Algorithm
+### 알고리즘 문제 해결 과정 from Feynman Algorithm
+------
 ```
 1. 문제 이해
 2. 추상화

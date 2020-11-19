@@ -13,7 +13,7 @@
 > - [ ] 블로그에 글 쓰기
 
 ### 알고리즘 문제 해결 과정 from Feynman Algorithm
-파인만 문제해결법과 How to Solve It을 병합한 과정
+자주 쓰는 파인만 문제해결법과 How to Solve It을 병합한 과정
 ```
 1. 문제 이해
 2. 추상화

@@ -23,7 +23,7 @@
 6. 회고하기
 ```
 
-### 기술블로그에도 쓰는 알고리즘(ureChanger Link)
+### 기술블로그에도 쓰는 알고리즘(Blog 'ureChanger' image Link)
 
 [![blog](https://user-images.githubusercontent.com/56578913/99676221-90b58c00-2abb-11eb-9eb5-889bb331bb51.png)](https://medium.com/urechanger)
 

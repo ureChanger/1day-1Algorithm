@@ -1,6 +1,6 @@
 <div align=center>
 
-![free-icon-coding-2621018 (1)](https://user-images.githubusercontent.com/56578913/99679083-e2abe100-2abe-11eb-8b06-695ca06f74d8.png)
+![free-icon-coding-2621018 (2)](https://user-images.githubusercontent.com/56578913/99679153-fa836500-2abe-11eb-9023-021b7beb4254.png)
 ## 꾸준하고 싶은 1일 1커밋
 기간 : 2020.10.19 ~
 

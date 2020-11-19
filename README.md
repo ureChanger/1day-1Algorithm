@@ -3,7 +3,9 @@
 ![free-icon-coding-2621018 (3)](https://user-images.githubusercontent.com/56578913/99679244-12f37f80-2abf-11eb-83f7-0e8ced2cd0fc.png)
 ## 꾸준하고 싶은 1일 1커밋
 ![python_badge](https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=white)
+
 How to Solve It
+
 기간 : 2020.10.19 ~
 
 <div align=left>

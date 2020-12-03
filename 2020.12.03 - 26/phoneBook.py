@@ -1,6 +1,6 @@
 def solution(phone_book):
     #문제이해
-    #추상화: 다른 숫자들과 비교
+    #추상화: 뒤의 번호들과 비교
     #계획하기: phone_book를 차례로 뒤에 위치한 원소들의 접두어들과 비교
     answer = True
     
